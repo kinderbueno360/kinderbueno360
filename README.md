@@ -8,6 +8,7 @@
 
 ### Popular blog posts
 
+* [How to Build a good one Value Object](https://medium.com/@carlosbueno.kinder/how-to-building-a-good-one-value-object-57b1c7d2c5f0).
 * [Comunicação e Foco (Portuguese)](https://medium.com/@carlosbueno.kinder/comunica%C3%A7%C3%A3o-e-foco-dc496f2ab521)
 * [Map Your Sharepoint Lists in Strongly Typed Entities](https://www.codeproject.com/Tips/768600/Map-your-Sharepoint-lists-in-Strongly-Typed-Entiti)
 
