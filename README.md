@@ -20,13 +20,6 @@ Carlos Buenos is a Senior Software Developer at GitHub.
 
 * [Guia do mestre Programador (Portuguese)](https://www.casadocodigo.com.br/products/livro-guia-mestre-programador)
 
-### My Youtube Channel and Videos
-
-* [KinderBueno360 Dev - Channel](https://www.youtube.com/channel/UCPdYeL4NpH9ENakZv5gRmJQ).
-* [DDD Course - Class 00 - Overview - NetCore C#](https://www.youtube.com/watch?v=vyMELNE03GA).
-
-
-
 ### Popular blog posts
 
 * [How to Build a good one Value Object](https://medium.com/@carlosbueno.kinder/how-to-building-a-good-one-value-object-57b1c7d2c5f0).
